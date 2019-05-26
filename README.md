@@ -1,2 +1,4 @@
 # Primeiro Repositório JS
-# Estudando Java
+## Estudando Java
+
+aprendendo conceitos básicos.
