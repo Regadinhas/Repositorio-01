@@ -1,2 +1,2 @@
-# Repositorio-01
+# Primeiro Repositório JS
 Aprendendo Java
